@@ -1,7 +1,7 @@
 {
   "Init my CSS": {
     "scope": "css",
-    "prefix": "init",
+    "prefix": "css",
     "body": [
       "* {",
       "\tmargin: 0;",
